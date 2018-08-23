@@ -1,0 +1,8 @@
+{
+  "name": "geekity-time",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "59a9f56f"
+}
